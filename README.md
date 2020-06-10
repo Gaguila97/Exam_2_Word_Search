@@ -1,6 +1,6 @@
-Authors: Evan Kasky
-         Chandler Mccarty
-         Gregory Aguilia
+Authors: Evan Kasky\n
+         Chandler Mccarty\n
+         Gregory Aguilia\n
 
 Project Title: Exam 2 Word Search
 
