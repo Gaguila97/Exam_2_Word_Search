@@ -4,7 +4,7 @@ Authors: Evan Kasky,
 
 Project Title: Exam 2 Word Search
 
-Description: Creates a pritable word search puzzle based on words the user enter's into the program.
+Description: Creates a printable word search puzzle based on words the user enter's into the program.
 
 Date Created: 5 June 2020
 
